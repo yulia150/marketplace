@@ -1,0 +1,49 @@
+{
+    "data":[
+        {
+            "ProdukToko" : "[Bisa COD] Tumbler 500ml plastik kaca tebal [HAPUS]",
+            "SKUInduk" : "101",
+            "SKU" : "SKU 101",
+            "Harga" : "10.000",
+            "HargaSale" : "20.000",
+            "Stok" : "7",
+            "CekKualitas" : "Aprove",
+            "Waktu" : "12:00",
+            "Aksi" : "Beli"
+        },
+        {
+            "ProdukToko" : "[Bisa COD] pashmina ceruty baby doll 180cm [HAPUS]",
+            "SKUInduk" : "10023",
+            "SKU" : "SKU 10023",
+            "Harga" : "20.000",
+            "HargaSale" : "50.000",
+            "Stok" : "100",
+            "CekKualitas" : "Aprove",
+            "Waktu" : "8:00",
+            "Aksi" : "Beli"
+        },
+        {
+            "ProdukToko" : "[Bisa COD] pashmina diamond crape 175 cm [HAPUS]",
+            "SKUInduk" : "1034",
+            "SKU" : "SKU 1034",
+            "Harga" : "60.000",
+            "HargaSale" : "100.000",
+            "Stok" : "8",
+            "CekKualitas" : "Aprove",
+            "Waktu" : "9:00",
+            "Aksi" : "Beli"
+        },
+        {
+            "ProdukToko" : "[Bisa COD] helm bogo [HAPUS]",
+            "SKUInduk" : "1064",
+            "SKU" : "SKU 1064",
+            "Harga" : "9.000",
+            "HargaSale" : "10.000",
+            "Stok" : "56",
+            "CekKualitas" : "Aprove",
+            "Waktu" : "7:00",
+            "Aksi" : "Beli"
+        }
+
+    ]
+}
