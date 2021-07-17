@@ -1,0 +1,49 @@
+{
+    "data":[
+        {
+            "ProdukToko" : "[Bisa COD]  Handsanitizer 500ml alcohol 70% 1034",
+            "SKUInduk" : "101",
+            "SKU" : "SKU 101",
+            "Harga" : "10.000",
+            "HargaSale" : "20.000",
+            "Stok" : "7",
+            "CekKualitas" : "Aprove",
+            "Waktu" : "12:00",
+            "Aksi" : "Beli"
+        },
+        {
+            "ProdukToko" : "[Bisa COD] Sabun Baby Biru 1064",
+            "SKUInduk" : "10023",
+            "SKU" : "SKU 10023",
+            "Harga" : "20.000",
+            "HargaSale" : "50.000",
+            "Stok" : "100",
+            "CekKualitas" : "Aprove",
+            "Waktu" : "8:00",
+            "Aksi" : "Beli"
+        },
+        {
+            "ProdukToko" : "[Bisa COD]Kios Helm Bogo Retno Klasik Abu Polos List Chrome Kaca FLAT Halfface Standart SINI ABU-ABU 101 ",
+            "SKUInduk" : "1034",
+            "SKU" : "SKU 1034",
+            "Harga" : "60.000",
+            "HargaSale" : "100.000",
+            "Stok" : "8",
+            "CekKualitas" : "Aprove",
+            "Waktu" : "9:00",
+            "Aksi" : "Beli"
+        },
+        {
+            "ProdukToko" : "[Bisa COD] sepatu sneakers 10023",
+            "SKUInduk" : "1064",
+            "SKU" : "SKU 1064",
+            "Harga" : "9.000",
+            "HargaSale" : "10.000",
+            "Stok" : "56",
+            "CekKualitas" : "Aprove",
+            "Waktu" : "7:00",
+            "Aksi" : "Beli"
+        }
+
+    ]
+}
